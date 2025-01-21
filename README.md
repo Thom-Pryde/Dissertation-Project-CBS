@@ -1,3 +1,5 @@
+Dissertation Mark: 78%
+
 Project Overview:
 Designed and implemented a Python-based solution to a multi-agent pathfinding problem, rerouting agents' paths to avoid collisions in advance. Tackled an optimization problem inspired by real-world robotics, where agents pick up and deliver items in a mapped environment. Implemented the Conflict-Based Search algorithm, a two-level method for multi-agent pathfinding, to solve the problem effectively. Overcame challenges in learning and applying new algorithms, strengthening my problem-solving abilities and enhancing my understanding of complex systems.
 
